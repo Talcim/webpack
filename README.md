@@ -18,6 +18,8 @@ donation
 
 # Introduction
 
+[![Join the chat at https://gitter.im/Talcim/webpack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Talcim/webpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 webpack is a bundler for modules. The main purpose is to bundle JavaScript
 files for usage in a browser, yet it is also capable of transforming, bundling,
 or packaging just about any resource or asset.
